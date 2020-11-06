@@ -1,4 +1,4 @@
-# signature-front
+# Vue Starter Pack
 
 ## Project setup
 ```
